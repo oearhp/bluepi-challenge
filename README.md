@@ -1,5 +1,5 @@
 # README AUTOMATE TESTING SCRIPT
-- [ ] TOOL: PLAYWRIGHT
+- TOOL: PLAYWRIGHT
 
 ## SETUP & PREREQUISITE
 - [ ] install [node.js](https://nodejs.org/en/download/current)
